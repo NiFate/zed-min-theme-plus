@@ -1,6 +1,6 @@
 id = "min-theme-plus"
 name = "Min Theme Plus"
-version = "0.0.1"
+version = "1.0.0"
 schema_version = 1
 description = "The ported VSCode theme is based on Min Theme and One Dark Pro for Zed."
 repository = "https://github.com/NiFate/zed-min-theme-plus"
